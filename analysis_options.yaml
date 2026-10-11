@@ -1,0 +1,6 @@
+include: package:lints/recommended.yaml
+linter:
+  rules:
+    prefer_initializing_formals: false
+    prefer_interpolation_to_compose_strings: false
+    curly_braces_in_flow_control_structures: false

@@ -1,0 +1,12 @@
+name: busystack_graph
+description: Account-bound Microsoft Graph request infrastructure for BusyStack.
+version: 0.1.0
+publish_to: none
+environment:
+  sdk: ^3.13.4
+dependencies:
+  http: 1.6.0
+  uuid: 4.6.0
+dev_dependencies:
+  lints: 6.1.0
+  test: 1.31.1
